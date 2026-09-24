@@ -25,7 +25,7 @@ To configure and verify RIPv2 (Routing Information Protocol version 2) routing o
 ---
 
 ### 2. Topology Diagram
-![Topology](./p15_topology.png)
+![Topology](./p15_topology.png.png)
 
 ---
 
